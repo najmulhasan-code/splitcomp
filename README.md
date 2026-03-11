@@ -6,8 +6,6 @@ The answer, at least in this model, is almost never. Under pure deterrence with 
 
 The model extends Becker's (1968) rational crime framework with a third action: instead of just {comply, evade}, a lab can also split its training run across data centers in different countries to stay below each jurisdiction's reporting threshold. This adds two new parameters: the cost of splitting (c) and international regulatory coordination (sigma).
 
-This was built as part of the Algoverse AI Safety Fellowship, AI Governance Track, under Joel Christoph.
-
 ![Parameter sweep heatmaps](figures/heatmaps.png)
 
 ## What the code does
